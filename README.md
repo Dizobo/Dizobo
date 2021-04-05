@@ -1,1 +1,1 @@
-[![Dizobo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dizobo)](https://github.com/anuraghazra/github-readme-stats)
+                            ![Dizobo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dizobo&show_icons=true&theme=tokyonight)
